@@ -1,7 +1,8 @@
-POST https://infinite-stream-15644.herokuapp.com/api/persons
+//POST https://infinite-stream-15644.herokuapp.com/api/persons
+POST http://localhost:3001/api/persons
 Content-Type: application/json
 
 {
-    "name": "Reetta Niinisalo",
+    "name": "Jenni Jänis",
     "number": "0405869587"
 }
